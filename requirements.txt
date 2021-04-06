@@ -1,0 +1,6 @@
+xlrd
+pandas~=1.2.3
+sklearn
+torch
+numpy
+matplotlib
